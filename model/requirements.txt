@@ -1,0 +1,3 @@
+pywavelets
+opencv
+seaborn
